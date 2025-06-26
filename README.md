@@ -25,7 +25,7 @@ This project is an interactive **animated about page** for showcasing a personal
 
 1. Clone this repository to your local machine using:
     ```bash
-    git clone https://owais41111.github.io/Animated-About-Page/
+    git clone (https://owais41111.github.io/Animated-About-Page/)
     ```
 
 2. Open the `index.html` file in your browser to view the page.
@@ -38,7 +38,7 @@ This project is an interactive **animated about page** for showcasing a personal
 
 Here’s a preview of how the page looks when rendered in the browser:
 
-![Image](https://github.com/user-attachments/assets/90ff7414-9599-4e01-aa4f-d02872383ce0)
+![Image](https://github.com/user-attachments/assets/016a6d1d-fdb1-436c-934e-667e6fc2092c)
 
 ## 🚀 Demo
 
